@@ -1,0 +1,6 @@
+.venv/
+.idea/
+.gigaide/
+*.iml
+__pycache__/
+*.pyc
